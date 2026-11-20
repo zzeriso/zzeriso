@@ -1,4 +1,4 @@
-# Hey, I'm ZERISO (a.k.a. Rez) 👋
+# Hey, I'm ZERISO 👋
 
 I'm a B.Com (Hons.) graduate from India with an interest in technology, data, business operations, and creative work. I enjoy learning new tools, exploring ideas, and developing practical skills.
 
